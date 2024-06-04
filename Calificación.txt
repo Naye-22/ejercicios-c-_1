@@ -1,0 +1,5 @@
+
+Calificación: 1.8/3
+- No tenía que usar bucles, switch, ni funciones.
+- faltan enunciados de los ejercicios.
+- Use el archivo .gitignore para evitar subir los archivos .exe
